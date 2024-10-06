@@ -9,10 +9,10 @@
 146.56.99.22:20443#KR
 183.98.120.11:12266#KR
 198.23.223.178:2053#CA
-43.153.103.203:443#USA
-5.161.225.35:443#USA
-192.237.192.175:443#USA
-bpb.radically.pro:443#USA
+43.153.103.203:443#US
+5.161.225.35:443#US
+192.237.192.175:443#US
+bpb.radically.pro:443#US
 212.41.15.119:443#RU
 es.opensignal.com:443#🇹🇭Thailand-True-1
 f71c3379.translate-cf.weglot.io:443#🇹🇭Thailand-True-2
